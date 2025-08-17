@@ -1,0 +1,18 @@
+[
+  {
+    "clean": "When John and Mary went to the store, John gave it to Mary.",
+    "corrupted": "When John and Mary went to the store, Mary gave it to John."
+  },
+  {
+    "clean": "After Alice met Bob at the cafe, Alice handed the book to Bob.",
+    "corrupted": "After Alice met Bob at the cafe, Bob handed the book to Alice."
+  },
+  {
+    "clean": "Because Tom thanked Jane for the help, Tom sent flowers to Jane.",
+    "corrupted": "Because Tom thanked Jane for the help, Jane sent flowers to Tom."
+  },
+  {
+    "clean": "When Peter and Susan arrived, Peter whispered the secret to Susan.",
+    "corrupted": "When Peter and Susan arrived, Susan whispered the secret to Peter."
+  }
+]
